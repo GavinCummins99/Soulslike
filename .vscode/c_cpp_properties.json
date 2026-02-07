@@ -1,0 +1,20 @@
+{
+	"configurations": [
+		{
+			"name": "SoulsGameEditor Editor Win64 Development (SoulsGame)",
+			"compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"cStandard": "c17",
+			"cppStandard": "c++20",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\gavin\\Documents\\Unreal Projects\\SoulsGame\\.vscode\\compileCommands_SoulsGame.json"
+		},
+		{
+			"name": "Win32",
+			"compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"cStandard": "c17",
+			"cppStandard": "c++20",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\gavin\\Documents\\Unreal Projects\\SoulsGame\\.vscode\\compileCommands_Default.json"
+		}
+	]
+}
