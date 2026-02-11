@@ -41,6 +41,13 @@
 *.VC.db
 *.VC.opendb
 
+# Rider
+.idea/
+*.sln.DotSettings.user
+
+# VS Code (if anyone uses it)
+.vscode/
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
