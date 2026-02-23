@@ -43,6 +43,19 @@ void UBasicAttributeSet::PreAttributeChange(const FGameplayAttribute& Attribute,
 	}
 }
 
+void UBasicAttributeSet::PostAttributeChange(const FGameplayAttribute& Attribute, float OldValue, float NewValue)
+{
+	Super::PostAttributeChange(Attribute, OldValue, NewValue);
+	
+	if (Attribute == GetHealthAttribute() && NewValue <= 0.f)
+	{
+		FGameplayTagContainer DeathAbilityTagContainer;
+		DeathAbilityTagContainer.AddTag(FGameplayTag::RequestGameplayTag("GameplayAbility.Death"));
+		GetOwningAbilitySystemComponent()->TryActivateAbilitiesByTag(DeathAbilityTagContainer);
+	}
+	
+}
+
 
 void UBasicAttributeSet::PostGameplayEffectExecute(const FGameplayEffectModCallbackData& Data)
 {

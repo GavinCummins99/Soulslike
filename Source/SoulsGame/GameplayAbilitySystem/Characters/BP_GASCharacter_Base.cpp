@@ -43,12 +43,17 @@ ABP_GASCharacter_Base::ABP_GASCharacter_Base()
 	GetCharacterMovement()->BrakingDecelerationWalking = 2000.f;
 	GetCharacterMovement()->BrakingDecelerationFalling = 1500.f;
 	
+	
+	
 }
 
 // Called when the game starts or when spawned
 void ABP_GASCharacter_Base::BeginPlay()
 {
 	Super::BeginPlay();
+	
+	AbilitySystemComponent->RegisterGameplayTagEvent(FGameplayTag::RequestGameplayTag("State.Dead")) //Listen for gameplay tag
+		.AddUObject(this, &ABP_GASCharacter_Base::OnDeadTagChanged);
 	
 }
 
@@ -128,6 +133,28 @@ void ABP_GASCharacter_Base::OnRep_PlayerState()
 	{
 		AbilitySystemComponent->InitAbilityActorInfo(this, this);
 	}
+}
+
+void ABP_GASCharacter_Base::OnDeadTagChanged(const FGameplayTag CallbackTag, int32 NewCount)
+{
+	//Handle death logic
+	if (NewCount > 0)
+	{
+		HandleDeath();
+	}
+	
+}
+
+void ABP_GASCharacter_Base::HandleDeath_Implementation()
+{
+	GetMesh()->SetSimulatePhysics(true);
+	GetMesh()->SetCollisionEnabled(ECollisionEnabled::QueryAndPhysics);
+	GetCapsuleComponent()->SetCollisionEnabled(ECollisionEnabled::NoCollision);
+	GetCharacterMovement()->DisableMovement();
+	
+	FVector Impulse = GetActorForwardVector() * -10000;
+	GetMesh()->AddImpulseAtLocation(Impulse, GetActorLocation());
+	
 }
 
 

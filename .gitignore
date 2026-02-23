@@ -41,9 +41,10 @@
 *.VC.db
 *.VC.opendb
 
-# Rider
+# JetBrains Rider
 .idea/
 *.sln.DotSettings.user
+*.sln.DotSettings
 
 # VS Code (if anyone uses it)
 .vscode/

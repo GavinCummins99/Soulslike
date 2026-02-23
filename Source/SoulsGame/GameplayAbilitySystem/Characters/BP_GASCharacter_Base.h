@@ -34,6 +34,13 @@ protected:
 	//Initialise component on Player spawning
 	virtual void OnRep_PlayerState() override;
 	
+	//Handle Dead tag being changed
+	virtual void OnDeadTagChanged(const FGameplayTag CallbackTag, int32 NewCount);
+	
+	//Default death logic
+	UFUNCTION(BlueprintNativeEvent, BlueprintCallable, Category = "AbilitySystem || Damage")
+	void HandleDeath();
+	
 protected:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "AbilitySystem")
 	EGameplayEffectReplicationMode	AscReplicationMode = EGameplayEffectReplicationMode::Mixed;
