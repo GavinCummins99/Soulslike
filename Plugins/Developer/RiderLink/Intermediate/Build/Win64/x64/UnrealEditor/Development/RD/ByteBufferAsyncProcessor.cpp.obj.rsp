@@ -1,0 +1,11 @@
+"F:/UnrealProjects/Soulslike_5.8/Plugins/Developer/RiderLink/Source/RD/src/rd_framework_cpp/src/main/wire/ByteBufferAsyncProcessor.cpp"
+@"F:/UnrealProjects/Soulslike_5.8/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/RD.Shared.rsp"
+/FI"F:/UnrealProjects/Soulslike_5.8/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/Definitions.h"
+/Fo"F:/UnrealProjects/Soulslike_5.8/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/ByteBufferAsyncProcessor.cpp.obj"
+/experimental:log "F:/UnrealProjects/Soulslike_5.8/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/ByteBufferAsyncProcessor.cpp.sarif"
+/sourceDependencies "F:/UnrealProjects/Soulslike_5.8/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RD/ByteBufferAsyncProcessor.cpp.dep.json"
+/nologo
+/TP
+/GR
+/std:c++20
+/wd5054

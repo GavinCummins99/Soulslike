@@ -6,16 +6,16 @@
 		},
 		{
 			"name": "UE5",
-			"path": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+			"path": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 		}
 	],
 	"settings": {
-		"typescript.tsc.autoDetect": "off",
+		"js/ts.tsc.autoDetect": "off",
 		"npm.autoDetect": "off",
 		"terminal.integrated.env.linux": {
-			"PATH": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Binaries/ThirdParty/DotNet/8.0.412/linux-x64:${env:PATH}",
-			"DOTNET_ROOT": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Binaries/ThirdParty/DotNet/8.0.412/linux-x64",
-			"DOTNET_HOST_PATH": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Binaries/ThirdParty/DotNet/8.0.412/linux-x64/dotnet",
+			"PATH": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Binaries/ThirdParty/DotNet/10.0/linux-x64:${env:PATH}",
+			"DOTNET_ROOT": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Binaries/ThirdParty/DotNet/10.0/linux-x64",
+			"DOTNET_HOST_PATH": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Binaries/ThirdParty/DotNet/10.0/linux-x64/dotnet",
 			"DOTNET_MULTILEVEL_LOOKUP": "0",
 			"DOTNET_ROLL_FORWARD": "LatestMajor"
 		}
@@ -37,13 +37,13 @@
 					"SoulsGame",
 					"Linux",
 					"Debug",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -54,7 +54,7 @@
 					"SoulsGame",
 					"Linux",
 					"Debug",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -63,7 +63,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -74,14 +74,14 @@
 					"SoulsGame",
 					"Linux",
 					"Debug",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex",
 					"-clean"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -92,13 +92,13 @@
 					"SoulsGame",
 					"Linux",
 					"DebugGame",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -109,7 +109,7 @@
 					"SoulsGame",
 					"Linux",
 					"DebugGame",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -118,7 +118,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -129,14 +129,14 @@
 					"SoulsGame",
 					"Linux",
 					"DebugGame",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex",
 					"-clean"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -147,13 +147,13 @@
 					"SoulsGame",
 					"Linux",
 					"Development",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -164,7 +164,7 @@
 					"SoulsGame",
 					"Linux",
 					"Development",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -173,7 +173,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -184,14 +184,14 @@
 					"SoulsGame",
 					"Linux",
 					"Development",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex",
 					"-clean"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -202,13 +202,13 @@
 					"SoulsGame",
 					"Linux",
 					"Test",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -219,7 +219,7 @@
 					"SoulsGame",
 					"Linux",
 					"Test",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -228,7 +228,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -239,14 +239,14 @@
 					"SoulsGame",
 					"Linux",
 					"Test",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex",
 					"-clean"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -257,13 +257,13 @@
 					"SoulsGame",
 					"Linux",
 					"Shipping",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -274,7 +274,7 @@
 					"SoulsGame",
 					"Linux",
 					"Shipping",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -283,7 +283,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -294,14 +294,14 @@
 					"SoulsGame",
 					"Linux",
 					"Shipping",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex",
 					"-clean"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -312,13 +312,13 @@
 					"SoulsGame",
 					"LinuxArm64",
 					"Debug",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -329,7 +329,7 @@
 					"SoulsGame",
 					"LinuxArm64",
 					"Debug",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -338,7 +338,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -349,14 +349,14 @@
 					"SoulsGame",
 					"LinuxArm64",
 					"Debug",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex",
 					"-clean"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -367,13 +367,13 @@
 					"SoulsGame",
 					"LinuxArm64",
 					"DebugGame",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -384,7 +384,7 @@
 					"SoulsGame",
 					"LinuxArm64",
 					"DebugGame",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -393,7 +393,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -404,14 +404,14 @@
 					"SoulsGame",
 					"LinuxArm64",
 					"DebugGame",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex",
 					"-clean"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -422,13 +422,13 @@
 					"SoulsGame",
 					"LinuxArm64",
 					"Development",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -439,7 +439,7 @@
 					"SoulsGame",
 					"LinuxArm64",
 					"Development",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -448,7 +448,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -459,14 +459,14 @@
 					"SoulsGame",
 					"LinuxArm64",
 					"Development",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex",
 					"-clean"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -477,13 +477,13 @@
 					"SoulsGame",
 					"LinuxArm64",
 					"Test",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -494,7 +494,7 @@
 					"SoulsGame",
 					"LinuxArm64",
 					"Test",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -503,7 +503,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -514,14 +514,14 @@
 					"SoulsGame",
 					"LinuxArm64",
 					"Test",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex",
 					"-clean"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -532,13 +532,13 @@
 					"SoulsGame",
 					"LinuxArm64",
 					"Shipping",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -549,7 +549,7 @@
 					"SoulsGame",
 					"LinuxArm64",
 					"Shipping",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -558,7 +558,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -569,14 +569,14 @@
 					"SoulsGame",
 					"LinuxArm64",
 					"Shipping",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex",
 					"-clean"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -587,13 +587,13 @@
 					"SoulsGameEditor",
 					"Linux",
 					"Debug",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -604,7 +604,7 @@
 					"SoulsGameEditor",
 					"Linux",
 					"Debug",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -613,7 +613,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -624,14 +624,14 @@
 					"SoulsGameEditor",
 					"Linux",
 					"Debug",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex",
 					"-clean"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -642,13 +642,13 @@
 					"SoulsGameEditor",
 					"Linux",
 					"DebugGame",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -659,7 +659,7 @@
 					"SoulsGameEditor",
 					"Linux",
 					"DebugGame",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -668,7 +668,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -679,14 +679,14 @@
 					"SoulsGameEditor",
 					"Linux",
 					"DebugGame",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex",
 					"-clean"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -697,13 +697,13 @@
 					"SoulsGameEditor",
 					"Linux",
 					"Development",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -714,7 +714,7 @@
 					"SoulsGameEditor",
 					"Linux",
 					"Development",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -723,7 +723,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			},
 			{
@@ -734,14 +734,14 @@
 					"SoulsGameEditor",
 					"Linux",
 					"Development",
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-waitmutex",
 					"-clean"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 				}
 			}
 		]
@@ -752,100 +752,100 @@
 			{
 				"name": "Launch SoulsGame (Debug)",
 				"request": "launch",
-				"program": "/data/ssd_4tb/UnrealProjects/Soulslike/Binaries/Linux/UnrealGame-Linux-Debug",
+				"program": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Binaries/Linux/UnrealGame-Linux-Debug",
 				"preLaunchTask": "SoulsGame Linux Debug Build",
 				"args": [
 				],
-				"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3",
+				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0",
 				"type": "cppdbg",
-				"visualizerFile": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+				"visualizerFile": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
 				"showDisplayString": true
 			},
 			{
 				"name": "Launch SoulsGame (DebugGame)",
 				"request": "launch",
-				"program": "/data/ssd_4tb/UnrealProjects/Soulslike/Binaries/Linux/UnrealGame-Linux-DebugGame",
+				"program": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Binaries/Linux/UnrealGame-Linux-DebugGame",
 				"preLaunchTask": "SoulsGame Linux DebugGame Build",
 				"args": [
 				],
-				"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3",
+				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0",
 				"type": "cppdbg",
-				"visualizerFile": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+				"visualizerFile": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
 				"showDisplayString": true
 			},
 			{
 				"name": "Launch SoulsGame (Development)",
 				"request": "launch",
-				"program": "/data/ssd_4tb/UnrealProjects/Soulslike/Binaries/Linux/UnrealGame",
+				"program": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Binaries/Linux/UnrealGame",
 				"preLaunchTask": "SoulsGame Linux Development Build",
 				"args": [
 				],
-				"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3",
+				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0",
 				"type": "cppdbg",
-				"visualizerFile": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+				"visualizerFile": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
 				"showDisplayString": true
 			},
 			{
 				"name": "Launch SoulsGame (Test)",
 				"request": "launch",
-				"program": "/data/ssd_4tb/UnrealProjects/Soulslike/Binaries/Linux/UnrealGame-Linux-Test",
+				"program": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Binaries/Linux/UnrealGame-Linux-Test",
 				"preLaunchTask": "SoulsGame Linux Test Build",
 				"args": [
 				],
-				"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3",
+				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0",
 				"type": "cppdbg",
-				"visualizerFile": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+				"visualizerFile": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
 				"showDisplayString": true
 			},
 			{
 				"name": "Launch SoulsGame (Shipping)",
 				"request": "launch",
-				"program": "/data/ssd_4tb/UnrealProjects/Soulslike/Binaries/Linux/UnrealGame-Linux-Shipping",
+				"program": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Binaries/Linux/UnrealGame-Linux-Shipping",
 				"preLaunchTask": "SoulsGame Linux Shipping Build",
 				"args": [
 				],
-				"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3",
+				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0",
 				"type": "cppdbg",
-				"visualizerFile": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+				"visualizerFile": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
 				"showDisplayString": true
 			},
 			{
 				"name": "Launch SoulsGameEditor (Debug)",
 				"request": "launch",
-				"program": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Binaries/Linux/UnrealEditor-Linux-Debug",
+				"program": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Binaries/Linux/UnrealEditor-Linux-Debug",
 				"preLaunchTask": "SoulsGameEditor Linux Debug Build",
 				"args": [
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject"
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject"
 				],
-				"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3",
+				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0",
 				"type": "cppdbg",
-				"visualizerFile": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+				"visualizerFile": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
 				"showDisplayString": true
 			},
 			{
 				"name": "Launch SoulsGameEditor (DebugGame)",
 				"request": "launch",
-				"program": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Binaries/Linux/UnrealEditor-Linux-DebugGame",
+				"program": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Binaries/Linux/UnrealEditor-Linux-DebugGame",
 				"preLaunchTask": "SoulsGameEditor Linux DebugGame Build",
 				"args": [
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject"
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject"
 				],
-				"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3",
+				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0",
 				"type": "cppdbg",
-				"visualizerFile": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+				"visualizerFile": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
 				"showDisplayString": true
 			},
 			{
 				"name": "Launch SoulsGameEditor (Development)",
 				"request": "launch",
-				"program": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Binaries/Linux/UnrealEditor",
+				"program": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Binaries/Linux/UnrealEditor",
 				"preLaunchTask": "SoulsGameEditor Linux Development Build",
 				"args": [
-					"/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject"
+					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject"
 				],
-				"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3",
+				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0",
 				"type": "cppdbg",
-				"visualizerFile": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+				"visualizerFile": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
 				"showDisplayString": true
 			},
 			{
@@ -853,26 +853,26 @@
 				"type": "coreclr",
 				"request": "launch",
 				"preLaunchTask": "UnrealBuildTool Linux Development Build",
-				"program": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Build/BatchFiles/RunUBT.bat",
+				"program": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Build/BatchFiles/RunUBT.sh",
 				"args": [
 					"-projectfiles",
 					"-vscode",
-					"-project=/data/ssd_4tb/UnrealProjects/Soulslike/SoulsGame.uproject",
+					"-project=/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject",
 					"-game",
 					"-engine",
 					"-dotnet"
 				],
 				"env": {
-					"PATH": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Binaries/ThirdParty/DotNet/8.0.412/linux-x64:${env:PATH}",
-					"DOTNET_ROOT": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Binaries/ThirdParty/DotNet/8.0.412/linux-x64",
-					"DOTNET_HOST_PATH": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Binaries/ThirdParty/DotNet/8.0.412/linux-x64/dotnet",
+					"PATH": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Binaries/ThirdParty/DotNet/10.0/linux-x64:${env:PATH}",
+					"DOTNET_ROOT": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Binaries/ThirdParty/DotNet/10.0/linux-x64",
+					"DOTNET_HOST_PATH": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Binaries/ThirdParty/DotNet/10.0/linux-x64/dotnet",
 					"DOTNET_MULTILEVEL_LOOKUP": "0",
 					"DOTNET_ROLL_FORWARD": "LatestMajor"
 				},
 				"console": "internalConsole",
 				"internalConsoleOptions": "openOnSessionStart",
 				"stopAtEntry": false,
-				"cwd": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3"
+				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
 			}
 		]
 	}

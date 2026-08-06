@@ -1,0 +1,11 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/experimental:deterministic
+/DEF
+/NAME:"UnrealEditor-RiderGameControl.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:/UnrealProjects/Soulslike_5.8/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderGameControl/Module.RiderGameControl.cpp.obj"
+/OUT:"F:/UnrealProjects/Soulslike_5.8/Plugins/Developer/RiderLink/Intermediate/Build/Win64/x64/UnrealEditor/Development/RiderGameControl/UnrealEditor-RiderGameControl.lib"
