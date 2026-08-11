@@ -23,6 +23,10 @@ public:
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "AbilitySystem/Attributes")
 	class UBasicAttributeSet* BasicAttributeSet;
+	
+	
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "AbilitySystem/Attributes")
+	class UCombatAttributeSet* CombatAttributeSet;
 
 protected:
 	// Called when the game starts or when spawned

@@ -6,7 +6,9 @@
 
 #include "Components/CapsuleComponent.h"
 #include "GameFramework/CharacterMovementComponent.h"
+#include "GameplayAbilitySystem/Abilities/MyGameplayAbility.h"
 #include "GameplayAbilitySystem/AttributeSets/BasicAttributeSet.h"
+#include "GameplayAbilitySystem/AttributeSets/CombatAttributeSet.h"
 
 // Sets default values
 ABP_GASCharacter_Base::ABP_GASCharacter_Base()
@@ -21,6 +23,9 @@ ABP_GASCharacter_Base::ABP_GASCharacter_Base()
 	
 	//Add basic attributeSet
 	BasicAttributeSet = CreateDefaultSubobject<UBasicAttributeSet>(TEXT("BasicAttributeSet"));
+	
+	//Add combat attributeset
+	CombatAttributeSet = CreateDefaultSubobject<UCombatAttributeSet>(TEXT("CombatAttributeSet"));
 	
 	//Default Character movement component values
 	
@@ -90,7 +95,14 @@ TArray<FGameplayAbilitySpecHandle> ABP_GASCharacter_Base::GrantAbilities( TArray
 	
 	for (TSubclassOf<UGameplayAbility> Ability : AbilitiesToGrant) //for each ability in the inputed array, 
 	{
-		FGameplayAbilitySpecHandle SpecHandle = AbilitySystemComponent->GiveAbility(FGameplayAbilitySpec(Ability, 1, -1, this));//call GiveAbility to this ability system component 
+		int32 InputID = -1; //default input ID for added abilities
+		if (const UMyGameplayAbility* MyGameplayAbilityCDO = GetDefault<UMyGameplayAbility>(Ability)) //get default values from custom GameplayAbility Class
+		{
+			InputID = static_cast<int32>(MyGameplayAbilityCDO->AbilityInputID); //cast enum to int32
+		}
+		
+		
+		FGameplayAbilitySpecHandle SpecHandle = AbilitySystemComponent->GiveAbility(FGameplayAbilitySpec(Ability, 1, InputID, this));//call GiveAbility to this ability system component 
 		AbilitiesHandles.Add(SpecHandle); //and store the output SpecHandle
 	}
 	

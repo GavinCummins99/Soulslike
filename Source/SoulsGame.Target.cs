@@ -9,7 +9,8 @@ public class SoulsGameTarget : TargetRules
 	{
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V6;
-		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_7;
+		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_8;
+		bOverrideBuildEnvironment = true;
 		ExtraModuleNames.Add("SoulsGame");
 	}
 }
