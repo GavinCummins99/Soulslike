@@ -15,8 +15,9 @@ enum class EAbilityInputID : uint8
 	None UMETA(DisplayName = "None"), // 0
 	PrimaryAbility UMETA(DisplayName = "Primary Ability"), // 1
 	SecondaryAbility UMETA(DisplayName = "Secondary Ability"), // 2
-	DefensiveAbility UMETA(DisplayName = "Defensive Ability"),// 3
-	MovementAbility UMETA(DisplayName = "Movement Ability"), // 4
+	HeavyAbility UMETA(DisplayName = "Heavy Ability"),// 3
+	SpecialAbility UMETA(DisplayName = "Special Ability"), // 4
+	MovementAbility UMETA(DisplayName = "Movement Ability"), // 5
 };
 
 

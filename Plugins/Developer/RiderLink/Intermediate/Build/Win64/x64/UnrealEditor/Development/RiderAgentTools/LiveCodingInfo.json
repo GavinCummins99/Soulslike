@@ -1,9 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.RiderAgentTools.gen.cpp.obj": [
-			"RiderAgentBridgeLibrary.gen.cpp.obj",
-			"RiderAgentTools.init.gen.cpp.obj"
-		]
-	}
-}

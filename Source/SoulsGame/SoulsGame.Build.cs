@@ -21,7 +21,7 @@ public class SoulsGame : ModuleRules
 			"Slate"
 		});
 
-		PrivateDependencyModuleNames.AddRange(new string[] {"GameplayAbilities", "GameplayTasks", "GameplayTags"});
+		PrivateDependencyModuleNames.AddRange(new string[] {"GameplayAbilities", "GameplayTasks", "GameplayTags", "InterchangeCommon" });
 
 		PublicIncludePaths.AddRange(new string[] {
 			"SoulsGame",
