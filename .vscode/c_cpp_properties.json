@@ -1,10 +1,28 @@
 {
 	"configurations": [
 		{
-			"name": "Linux",
+			"name": "SoulsGameEditor Editor Linux Development (SoulsGame)",
+			"compilerPath": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"compilerArgs": [
+				"-isysroot",
+				"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu"
+			],
 			"cStandard": "c17",
 			"cppStandard": "c++20",
-			"intelliSenseMode": "clang-x64"
+			"intelliSenseMode": "clang-x64",
+			"compileCommands": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame.json"
+		},
+		{
+			"name": "Linux",
+			"compilerPath": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"compilerArgs": [
+				"-isysroot",
+				"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu"
+			],
+			"cStandard": "c17",
+			"cppStandard": "c++20",
+			"intelliSenseMode": "clang-x64",
+			"compileCommands": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_Default.json"
 		}
 	]
 }

@@ -1,746 +1,394 @@
 [
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/AC_Health.cpp",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/ActorComponents/AC_Health.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/AC_Health.h",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/ActorComponents/AC_InteractionComponent.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/AC_InteractionComponent.cpp",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/ActorComponents/AC_LockOn.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/AC_InteractionComponent.h",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/GameplayAbilitySystem/Abilities/MyGameplayAbility.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/GameplayAbilitySystem/AttributeSets/BasicAttributeSet.cpp",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/GameplayAbilitySystem/AttributeSets/BasicAttributeSet.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/GameplayAbilitySystem/AttributeSets/BasicAttributeSet.h",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/GameplayAbilitySystem/AttributeSets/CombatAttributeSet.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/GameplayAbilitySystem/Characters/BP_GASCharacter_Base.cpp",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/GameplayAbilitySystem/Characters/BP_GASCharacter_Base.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/GameplayAbilitySystem/Characters/BP_GASCharacter_Base.h",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/SoulsGame.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/SoulsGame.Build.cs",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/SoulsGameCharacter.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/SoulsGame.cpp",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/SoulsGameGameMode.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/SoulsGame.h",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/SoulsGamePlayerController.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/SoulsGameCharacter.cpp",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_Combat/AI/CombatAIController.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/SoulsGameCharacter.h",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_Combat/AI/CombatEnemy.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/SoulsGameGameMode.cpp",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_Combat/AI/CombatEnemySpawner.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/SoulsGameGameMode.h",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_Combat/AI/CombatStateTreeUtility.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/SoulsGamePlayerController.cpp",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_Combat/AI/EnvQueryContext_Danger.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/SoulsGamePlayerController.h",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_Combat/AI/EnvQueryContext_Player.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/AI/CombatAIController.cpp",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_Combat/Animation/AnimNotify_CheckChargedAttack.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/AI/CombatAIController.h",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_Combat/Animation/AnimNotify_CheckCombo.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/AI/CombatEnemy.cpp",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_Combat/Animation/AnimNotify_DoAttackTrace.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/AI/CombatEnemy.h",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_Combat/CombatCharacter.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/AI/CombatEnemySpawner.cpp",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_Combat/CombatGameMode.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/AI/CombatEnemySpawner.h",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_Combat/CombatPlayerController.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/AI/CombatStateTreeUtility.cpp",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_Combat/Gameplay/CombatActivationVolume.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/AI/CombatStateTreeUtility.h",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_Combat/Gameplay/CombatCheckpointVolume.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/AI/EnvQueryContext_Danger.cpp",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_Combat/Gameplay/CombatDamageableBox.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/AI/EnvQueryContext_Danger.h",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_Combat/Gameplay/CombatDummy.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/AI/EnvQueryContext_Player.cpp",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_Combat/Gameplay/CombatLavaFloor.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/AI/EnvQueryContext_Player.h",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_Combat/Interfaces/CombatActivatable.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/Animation/AnimNotify_CheckChargedAttack.cpp",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_Combat/Interfaces/CombatAttacker.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/Animation/AnimNotify_CheckChargedAttack.h",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_Combat/Interfaces/CombatDamageable.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/Animation/AnimNotify_CheckCombo.cpp",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_Combat/UI/CombatLifeBar.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/Animation/AnimNotify_CheckCombo.h",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_Platforming/Animation/AnimNotify_EndDash.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/Animation/AnimNotify_DoAttackTrace.cpp",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_Platforming/PlatformingCharacter.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/Animation/AnimNotify_DoAttackTrace.h",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_Platforming/PlatformingGameMode.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/CombatCharacter.cpp",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_Platforming/PlatformingPlayerController.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/CombatCharacter.h",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_SideScrolling/AI/SideScrollingAIController.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/CombatGameMode.cpp",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_SideScrolling/AI/SideScrollingNPC.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/CombatGameMode.h",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_SideScrolling/AI/SideScrollingStateTreeUtility.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/CombatPlayerController.cpp",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_SideScrolling/Gameplay/SideScrollingJumpPad.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/CombatPlayerController.h",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_SideScrolling/Gameplay/SideScrollingMovingPlatform.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/Gameplay/CombatActivationVolume.cpp",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_SideScrolling/Gameplay/SideScrollingPickup.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/Gameplay/CombatActivationVolume.h",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_SideScrolling/Gameplay/SideScrollingSoftPlatform.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/Gameplay/CombatCheckpointVolume.cpp",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_SideScrolling/Interfaces/SideScrollingInteractable.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/Gameplay/CombatCheckpointVolume.h",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_SideScrolling/SideScrollingCameraManager.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/Gameplay/CombatDamageableBox.cpp",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_SideScrolling/SideScrollingCharacter.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/Gameplay/CombatDamageableBox.h",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_SideScrolling/SideScrollingGameMode.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/Gameplay/CombatDummy.cpp",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_SideScrolling/SideScrollingPlayerController.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	},
 	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/Gameplay/CombatDummy.h",
+		"file": "/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/Source/SoulsGame/Variant_SideScrolling/UI/SideScrollingUI.cpp",
 		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
+			"/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/.vscode/compileCommands_SoulsGame/SoulsGame.0.rsp"
 		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/Gameplay/CombatLavaFloor.cpp",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/Gameplay/CombatLavaFloor.h",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/Interfaces/CombatActivatable.cpp",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/Interfaces/CombatActivatable.h",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/Interfaces/CombatAttacker.cpp",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/Interfaces/CombatAttacker.h",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/Interfaces/CombatDamageable.cpp",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/Interfaces/CombatDamageable.h",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/UI/CombatLifeBar.cpp",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Combat/UI/CombatLifeBar.h",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Platforming/Animation/AnimNotify_EndDash.cpp",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Platforming/Animation/AnimNotify_EndDash.h",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Platforming/PlatformingCharacter.cpp",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Platforming/PlatformingCharacter.h",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Platforming/PlatformingGameMode.cpp",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Platforming/PlatformingGameMode.h",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Platforming/PlatformingPlayerController.cpp",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_Platforming/PlatformingPlayerController.h",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/AI/SideScrollingAIController.cpp",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/AI/SideScrollingAIController.h",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/AI/SideScrollingNPC.cpp",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/AI/SideScrollingNPC.h",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/AI/SideScrollingStateTreeUtility.cpp",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/AI/SideScrollingStateTreeUtility.h",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/Gameplay/SideScrollingJumpPad.cpp",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/Gameplay/SideScrollingJumpPad.h",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/Gameplay/SideScrollingMovingPlatform.cpp",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/Gameplay/SideScrollingMovingPlatform.h",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/Gameplay/SideScrollingPickup.cpp",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/Gameplay/SideScrollingPickup.h",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/Gameplay/SideScrollingSoftPlatform.cpp",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/Gameplay/SideScrollingSoftPlatform.h",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/Interfaces/SideScrollingInteractable.cpp",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/Interfaces/SideScrollingInteractable.h",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/SideScrollingCameraManager.cpp",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/SideScrollingCameraManager.h",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/SideScrollingCharacter.cpp",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/SideScrollingCharacter.h",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/SideScrollingGameMode.cpp",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/SideScrollingGameMode.h",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/SideScrollingPlayerController.cpp",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/SideScrollingPlayerController.h",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/UI/SideScrollingUI.cpp",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
-	},
-	{
-		"file": "/data/ssd_4tb/UnrealProjects/Soulslike/Source/SoulsGame/Variant_SideScrolling/UI/SideScrollingUI.h",
-		"arguments": [
-			"/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
-			"@/data/ssd_4tb/UnrealProjects/Soulslike/.vscode/compileCommands_SoulsGame/SoulsGame.1.rsp"
-		],
-		"directory": "/data/ssd_4tb/UnrealEngine/Linux_Unreal_Engine_5.7.3/Engine/Source"
+		"directory": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Source"
 	}
 ]

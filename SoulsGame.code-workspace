@@ -6,16 +6,16 @@
 		},
 		{
 			"name": "UE5",
-			"path": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+			"path": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 		}
 	],
 	"settings": {
 		"js/ts.tsc.autoDetect": "off",
 		"npm.autoDetect": "off",
 		"terminal.integrated.env.linux": {
-			"PATH": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Binaries/ThirdParty/DotNet/10.0/linux-x64:${env:PATH}",
-			"DOTNET_ROOT": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Binaries/ThirdParty/DotNet/10.0/linux-x64",
-			"DOTNET_HOST_PATH": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Binaries/ThirdParty/DotNet/10.0/linux-x64/dotnet",
+			"PATH": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Binaries/ThirdParty/DotNet/10.0/linux-x64:${env:PATH}",
+			"DOTNET_ROOT": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Binaries/ThirdParty/DotNet/10.0/linux-x64",
+			"DOTNET_HOST_PATH": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Binaries/ThirdParty/DotNet/10.0/linux-x64/dotnet",
 			"DOTNET_MULTILEVEL_LOOKUP": "0",
 			"DOTNET_ROLL_FORWARD": "LatestMajor"
 		}
@@ -43,7 +43,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -63,7 +63,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -81,7 +81,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -98,7 +98,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -118,7 +118,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -136,7 +136,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -153,7 +153,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -173,7 +173,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -191,7 +191,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -208,7 +208,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -228,7 +228,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -246,7 +246,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -263,7 +263,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -283,7 +283,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -301,7 +301,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -318,7 +318,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -338,7 +338,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -356,7 +356,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -373,7 +373,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -393,7 +393,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -411,7 +411,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -428,7 +428,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -448,7 +448,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -466,7 +466,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -483,7 +483,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -503,7 +503,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -521,7 +521,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -538,7 +538,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -558,7 +558,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -576,7 +576,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -593,7 +593,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -613,7 +613,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -631,7 +631,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -648,7 +648,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -668,7 +668,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -686,7 +686,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -703,7 +703,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -723,7 +723,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			},
 			{
@@ -741,7 +741,7 @@
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+					"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 				}
 			}
 		]
@@ -756,9 +756,9 @@
 				"preLaunchTask": "SoulsGame Linux Debug Build",
 				"args": [
 				],
-				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0",
+				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3",
 				"type": "cppdbg",
-				"visualizerFile": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+				"visualizerFile": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
 				"showDisplayString": true
 			},
 			{
@@ -768,9 +768,9 @@
 				"preLaunchTask": "SoulsGame Linux DebugGame Build",
 				"args": [
 				],
-				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0",
+				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3",
 				"type": "cppdbg",
-				"visualizerFile": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+				"visualizerFile": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
 				"showDisplayString": true
 			},
 			{
@@ -780,9 +780,9 @@
 				"preLaunchTask": "SoulsGame Linux Development Build",
 				"args": [
 				],
-				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0",
+				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3",
 				"type": "cppdbg",
-				"visualizerFile": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+				"visualizerFile": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
 				"showDisplayString": true
 			},
 			{
@@ -792,9 +792,9 @@
 				"preLaunchTask": "SoulsGame Linux Test Build",
 				"args": [
 				],
-				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0",
+				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3",
 				"type": "cppdbg",
-				"visualizerFile": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+				"visualizerFile": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
 				"showDisplayString": true
 			},
 			{
@@ -804,48 +804,48 @@
 				"preLaunchTask": "SoulsGame Linux Shipping Build",
 				"args": [
 				],
-				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0",
+				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3",
 				"type": "cppdbg",
-				"visualizerFile": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+				"visualizerFile": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
 				"showDisplayString": true
 			},
 			{
 				"name": "Launch SoulsGameEditor (Debug)",
 				"request": "launch",
-				"program": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Binaries/Linux/UnrealEditor-Linux-Debug",
+				"program": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Binaries/Linux/UnrealEditor-Linux-Debug",
 				"preLaunchTask": "SoulsGameEditor Linux Debug Build",
 				"args": [
 					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject"
 				],
-				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0",
+				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3",
 				"type": "cppdbg",
-				"visualizerFile": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+				"visualizerFile": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
 				"showDisplayString": true
 			},
 			{
 				"name": "Launch SoulsGameEditor (DebugGame)",
 				"request": "launch",
-				"program": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Binaries/Linux/UnrealEditor-Linux-DebugGame",
+				"program": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Binaries/Linux/UnrealEditor-Linux-DebugGame",
 				"preLaunchTask": "SoulsGameEditor Linux DebugGame Build",
 				"args": [
 					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject"
 				],
-				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0",
+				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3",
 				"type": "cppdbg",
-				"visualizerFile": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+				"visualizerFile": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
 				"showDisplayString": true
 			},
 			{
 				"name": "Launch SoulsGameEditor (Development)",
 				"request": "launch",
-				"program": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Binaries/Linux/UnrealEditor",
+				"program": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Binaries/Linux/UnrealEditor",
 				"preLaunchTask": "SoulsGameEditor Linux Development Build",
 				"args": [
 					"/mnt/SSD_4TB/UnrealProjects/Soulslike_5.8/SoulsGame.uproject"
 				],
-				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0",
+				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3",
 				"type": "cppdbg",
-				"visualizerFile": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
+				"visualizerFile": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Extras/VisualStudioDebugging/Unreal.natvis",
 				"showDisplayString": true
 			},
 			{
@@ -853,7 +853,7 @@
 				"type": "coreclr",
 				"request": "launch",
 				"preLaunchTask": "UnrealBuildTool Linux Development Build",
-				"program": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Build/BatchFiles/RunUBT.sh",
+				"program": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Build/BatchFiles/RunUBT.sh",
 				"args": [
 					"-projectfiles",
 					"-vscode",
@@ -863,16 +863,16 @@
 					"-dotnet"
 				],
 				"env": {
-					"PATH": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Binaries/ThirdParty/DotNet/10.0/linux-x64:${env:PATH}",
-					"DOTNET_ROOT": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Binaries/ThirdParty/DotNet/10.0/linux-x64",
-					"DOTNET_HOST_PATH": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0/Engine/Binaries/ThirdParty/DotNet/10.0/linux-x64/dotnet",
+					"PATH": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Binaries/ThirdParty/DotNet/10.0/linux-x64:${env:PATH}",
+					"DOTNET_ROOT": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Binaries/ThirdParty/DotNet/10.0/linux-x64",
+					"DOTNET_HOST_PATH": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3/Engine/Binaries/ThirdParty/DotNet/10.0/linux-x64/dotnet",
 					"DOTNET_MULTILEVEL_LOOKUP": "0",
 					"DOTNET_ROLL_FORWARD": "LatestMajor"
 				},
 				"console": "internalConsole",
 				"internalConsoleOptions": "openOnSessionStart",
 				"stopAtEntry": false,
-				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.0"
+				"cwd": "/home/gav/Downloads/Linux_Unreal_Engine_5.8.3"
 			}
 		]
 	}
